@@ -24,7 +24,6 @@ public class CommonClass {
         // we have an interface in the common code and use a loader specific implementation to delegate our call to
         // the platform specific approach.
         if (Services.PLATFORM.isModLoaded("mxbase")) {
-
             Constants.LOG.info("Hello to mxbase");
         }
     }
