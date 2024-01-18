@@ -1,4 +1,4 @@
-package com.example.examplemod.mixin;
+package aeronicamc.mods.mxbase.mixin;
 
 import aeronicamc.mods.mxbase.Constants;
 import net.minecraft.client.Minecraft;
